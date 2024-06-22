@@ -22,7 +22,7 @@
 ### 周时间统计(2024.06.16-2024.06.22)
 <img src='./png/202406week04_table_show.png' width="50%"><img src='./png/202406week04_emotion_show.png' width="50%">
 
-### 月时间统计(2024.06.01-2024.06.30)
+### 月时间统计(2024.05.01-2024.05.31)
 <img src='./png/202405_pie.png' width="50%"><img src='./png/202405_work_time.png' width="50%">
 
 ## 联系我
