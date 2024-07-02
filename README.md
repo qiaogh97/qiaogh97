@@ -32,5 +32,9 @@
 |邮箱|18811076159@163.com|
 |微信|doctor0324|
 
+## 其他信息
+[学术主页](https://qiaogh97.github.io)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=FqQG_L4AAAAJ)
+
 ## 个性签名
 > 承阳明之心学，明圣贤之大道
