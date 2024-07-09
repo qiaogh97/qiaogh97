@@ -33,7 +33,7 @@
 |微信|doctor0324|
 
 ## 其他信息
-[学术主页(未完工)](https://qiaogh97.github.io)
+[学术主页](https://qiaogh97.github.io)
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=FqQG_L4AAAAJ)
 
 ## 个性签名
