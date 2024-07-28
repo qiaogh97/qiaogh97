@@ -1,11 +1,11 @@
 # day
-day_num=20240725
+day_num=20240727
 
 cp ../notion/time/png/new_${day_num}*.png ./png/.
 ls -lh ./png/new_${day_num}*.png
 
 # week
-#week_num=03
+#week_num=04
 #cp ../notion/time/png/202407week${week_num}_*show.png ./png/.
 #ls -lh ./png/202407week${week_num}_*show.png
 # month
