@@ -1,13 +1,14 @@
 # day
-day_num=20240730
+#day_num=20240731
 
-cp ../notion/time/png/new_${day_num}*.png ./png/.
-ls -lh ./png/new_${day_num}*.png
+#cp ../notion/time/png/new_${day_num}*.png ./png/.
+#ls -lh ./png/new_${day_num}*.png
 
 # week
 #week_num=04
 #cp ../notion/time/png/202407week${week_num}_*show.png ./png/.
 #ls -lh ./png/202407week${week_num}_*show.png
 # month
-#cp ../notion/time/png/202406_pie.png ./png/.
-#cp ../notion/time/png/202406_work_time.png ./png/.
+#month_num=07
+#cp ../notion/time/png/2024${month_num}_pie.png ./png/.
+#cp ../notion/time/png/2024${month_num}_work_time.png ./png/.
