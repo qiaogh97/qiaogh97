@@ -1,8 +1,8 @@
 # day
-#day_num=20240731
+day_num=20240801
 
-#cp ../notion/time/png/new_${day_num}*.png ./png/.
-#ls -lh ./png/new_${day_num}*.png
+cp ../notion/time/png/new_${day_num}*.png ./png/.
+ls -lh ./png/new_${day_num}*.png
 
 # week
 #week_num=04
