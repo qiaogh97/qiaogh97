@@ -1,5 +1,5 @@
 # day
-day_num=20240818
+day_num=20240819
 
 cp ../notion/time/png/new_${day_num}*.png ./png/.
 ls -lh ./png/new_${day_num}*.png
