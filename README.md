@@ -15,14 +15,14 @@
 - 🌍热爱阳明心学, 一生所求，此心光明
 
 ## 📈 数据是不会说谎的
-### 日时间统计(2024.08.29)
-<img src='./png/new_20240829_pie.png' width="50%"><img src='./png/new_20240829_plot.png' width="50%">
+### 日时间统计(2024.08.31)
+<img src='./png/new_20240831_pie.png' width="50%"><img src='./png/new_20240831_plot.png' width="50%">
 
-### 周时间统计(2024.08.18-2024.08.24)
-<img src='./png/202408week04_table_show.png' width="50%"><img src='./png/202408week04_emotion_show.png' width="50%">
+### 周时间统计(2024.08.25-2024.08.31)
+<img src='./png/202408week05_table_show.png' width="50%"><img src='./png/202408week05_emotion_show.png' width="50%">
 
-### 月时间统计(2024.07.01-2024.07.31)
-<img src='./png/202407_pie.png' width="50%"><img src='./png/202407_work_time.png' width="50%">
+### 月时间统计(2024.08.01-2024.08.31)
+<img src='./png/202408_pie.png' width="50%"><img src='./png/202408_work_time.png' width="50%">
 
 ## 联系我
 
