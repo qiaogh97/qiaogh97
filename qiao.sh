@@ -1,7 +1,7 @@
 year=2024
 month=09
 week=02
-day=10
+day=11
 
 day_num=${year}${month}${day}
 
