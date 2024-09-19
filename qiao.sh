@@ -1,4 +1,4 @@
-day=17
+day=18
 
 year=2024
 month=09
