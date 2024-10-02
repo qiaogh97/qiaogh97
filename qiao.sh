@@ -1,4 +1,4 @@
-day=29
+day=30
 
 year=2024
 month=09
@@ -7,8 +7,8 @@ week=04
 day_num=${year}${month}${day}
 
 # day
-cp ../notion/time/png/new_${day_num}*.png ./png/.
-ls -lh ./png/new_${day_num}*.png
+#cp ../notion/time/png/new_${day_num}*.png ./png/.
+#ls -lh ./png/new_${day_num}*.png
 
 # week
 #cp ../notion/time/png/${year}${month}week${week}_*show.png ./png/.
@@ -17,3 +17,4 @@ ls -lh ./png/new_${day_num}*.png
 # month
 #cp ../notion/time/png/${year}${month}_pie.png ./png/.
 #cp ../notion/time/png/${year}${month}_work_time.png ./png/.
+#ls -lh ./png/${year}${month}*.png
