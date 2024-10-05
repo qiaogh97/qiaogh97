@@ -18,7 +18,7 @@
 ### 日时间统计(2024.10.05)
 <img src='./png/new_20241005_pie.png' width="50%"><img src='./png/new_20241005_plot.png' width="50%">
 
-### 周时间统计(2024.09.30-2024.10.04)
+### 周时间统计(2024.09.30-2024.10.05)
 <img src='./png/202410week01_table_show.png' width="50%"><img src='./png/202410week01_emotion_show.png' width="50%">
 
 ### 月时间统计(2024.09.01-2024.09.30)
