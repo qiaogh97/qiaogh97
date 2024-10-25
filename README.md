@@ -15,8 +15,8 @@
 - 🌍热爱阳明心学, 一生所求，此心光明
 
 ## 📈 数据是不会说谎的
-### 日时间统计(2024.10.23)
-<img src='./png/new_20241023_pie.png' width="50%"><img src='./png/new_20241023_plot.png' width="50%">
+### 日时间统计(2024.10.24)
+<img src='./png/new_20241024_pie.png' width="50%"><img src='./png/new_20241024_plot.png' width="50%">
 
 ### 周时间统计(2024.10.13-2024.10.20)
 <img src='./png/202410week03_table_show.png' width="50%"><img src='./png/202410week03_emotion_show.png' width="50%">
