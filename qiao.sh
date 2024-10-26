@@ -1,4 +1,4 @@
-day=24
+day=25
 
 year=2024
 month=10
