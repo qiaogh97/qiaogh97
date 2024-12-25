@@ -1,4 +1,4 @@
-day=22
+day=24
 
 year=2024
 month=12
