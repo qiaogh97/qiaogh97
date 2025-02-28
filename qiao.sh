@@ -1,4 +1,4 @@
-day=26
+day=28
 
 year=2025
 month=02
