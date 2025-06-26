@@ -1,4 +1,4 @@
-day=23
+day=25
 
 year=2025
 month=06
