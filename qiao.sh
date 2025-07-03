@@ -1,4 +1,4 @@
-day=01
+day=02
 
 year=2025
 month=07
