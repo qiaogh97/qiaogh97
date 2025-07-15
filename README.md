@@ -15,8 +15,8 @@
 - 🌍心如明镜,物来则照;万物一体,吾性具足;任它千变万化,我心自岿然不动;浩浩乎照见世间万物而不失其本体,荡荡乎如庖丁解牛游刃有余
 
 ## 📈 数据是不会说谎的
-### 日时间统计(2025.07.13)
-<img src='./png/new_20250713_pie.png' width="50%"><img src='./png/new_20250713_plot.png' width="50%">
+### 日时间统计(2025.07.14)
+<img src='./png/new_20250714_pie.png' width="50%"><img src='./png/new_20250714_plot.png' width="50%">
 
 ### 周时间统计(2025.07.06-2025.07.12)
 <img src='./png/202507week02_table_show.png' width="50%"><img src='./png/202507week02_emotion_show.png' width="50%">
