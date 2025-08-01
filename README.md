@@ -21,8 +21,8 @@
 ### 周时间统计(2025.07.20-2025.07.26)
 <img src='./png/202507week04_table_show.png' width="50%"><img src='./png/202507week04_emotion_show.png' width="50%">
 
-### 月时间统计(2025.06.01-2025.06.30)
-<img src='./png/202506_pie.png' width="50%"><img src='./png/202506_work_time.png' width="50%">
+### 月时间统计(2025.07.01-2025.07.31)
+<img src='./png/202507_pie.png' width="50%"><img src='./png/202507_work_time.png' width="50%">
 
 ## 联系我
 
