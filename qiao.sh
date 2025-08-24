@@ -1,8 +1,8 @@
-day=21
+day=24
 
 year=2025
 month=08
-week=03
+week=04
 
 day_num=${year}${month}${day}
 
@@ -11,8 +11,8 @@ cp ../notion/time/png/new_${day_num}*.png ./png/.
 ls -lh ./png/new_${day_num}*.png
 
 # week
-#cp ../notion/time/png/${year}${month}week${week}_*show.png ./png/.
-#ls -lh ./png/${year}${month}week${week}_*show.png
+cp ../notion/time/png/${year}${month}week${week}_*show.png ./png/.
+ls -lh ./png/${year}${month}week${week}_*show.png
 
 # month
 #cp ../notion/time/png/${year}${month}_pie.png ./png/.
