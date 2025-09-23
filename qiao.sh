@@ -1,4 +1,4 @@
-day=20
+day=22
 
 year=2025
 month=09
