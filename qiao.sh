@@ -1,8 +1,8 @@
-day=25
+day=27
 
 year=2025
 month=09
-week=03
+week=04
 
 day_num=${year}${month}${day}
 
