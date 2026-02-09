@@ -16,10 +16,10 @@
 
 ## 📈 数据是不会说谎的
 ### 日时间统计(2026.02.06)
-<img src='./png/new_20260206_pie.png' width="33%"><img src='./png/new_20260206_plot.png' width="33%"><img src='./png/new_20260206_location.png' width="33%">
+<img src='./png/new_20260206_pie.png' width="33%"><img src='./png/new_20260206_plot.png' width="33%"><img src='./png/new_20260206_location.png' width="34%">
 
-### 周时间统计(2026.01.25-2024.01.31)
-<img src='./png/202601week05_table_show.png' width="50%"><img src='./png/202601week05_emotion_show.png' width="50%">
+### 周时间统计(2026.02.01-2026.02.07)
+<img src='./png/202602week01_table_show.png' width="33%"><img src='./png/202602week01_emotion_show.png' width="33%"><img src='./png/202602week01_location_pie_show.png' width="34%"><>
 
 ### 月时间统计(2026.01.01-2024.01.31)
 <img src='./png/202601_pie.png' width="50%"><img src='./png/202601_work_time.png' width="50%">
