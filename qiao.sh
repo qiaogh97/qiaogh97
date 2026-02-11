@@ -1,4 +1,4 @@
-day=09
+day=10
 
 year=2026
 month=02
