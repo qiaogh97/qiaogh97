@@ -1,8 +1,8 @@
-day=13
+day=17
 
 year=2026
 month=03
-week=01
+week=02
 
 day_num=${year}${month}${day}
 
@@ -11,10 +11,10 @@ cp ../notion/time/png/new_${day_num}*.png ./png/.
 ls -lh ./png/new_${day_num}*.png
 
 # week
-#cp ../notion/time/png/${year}${month}week${week}_table.png ./png/.
-#cp ../notion/time/png/${year}${month}week${week}_emotion.png ./png/.
-#cp ../notion/time/png/${year}${month}week${week}_location_pie.png ./png/.
-#ls -lh ./png/${year}${month}week${week}_*.png
+cp ../notion/time/png/${year}${month}week${week}_table.png ./png/.
+cp ../notion/time/png/${year}${month}week${week}_emotion.png ./png/.
+cp ../notion/time/png/${year}${month}week${week}_location_pie.png ./png/.
+ls -lh ./png/${year}${month}week${week}_*.png
 
 # month
 #cp ../notion/time/png/${year}${month}_pie.png ./png/.
