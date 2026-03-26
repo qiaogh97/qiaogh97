@@ -1,4 +1,4 @@
-day=24
+day=25
 
 year=2026
 month=03
