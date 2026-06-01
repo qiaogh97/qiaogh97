@@ -7,22 +7,22 @@
 ### I'm Guanhui Qiao(乔冠辉)
 
 - 👶97年, born in 河南
-- 🏫中科院自动化所计算机专业博五在读, 预计26年毕业，base武汉
-- ❤️ notion四年忠实用户
+- 🏫中科院自动化所计算机专业博五在读, 预计27年毕业，base武汉
+- ❤️ notion六年忠实用户
 - ⭐柳比歇夫时间记录统计法当代实践者
 - 🎮王者荣耀酷爱孙策;PVZ砸罐子发烧友
-- 🏅堕拉攻忠实挑战者(健身环大冒险)
+- 🏅堕拉攻最严厉的父亲(健身环大冒险)
 - 🌍心如明镜,物来则照;万物一体,吾性具足;任它千变万化,我心自岿然不动;浩浩乎照见世间万物而不失其本体,荡荡乎如庖丁解牛游刃有余
 
 ## 📈 数据是不会说谎的
-### 日时间统计(2026.05.29)
-<img src='./png/new_20260529_pie.png' width="33%"><img src='./png/new_20260529_plot.png' width="33%"><img src='./png/new_20260529_location.png' width="34%">
+### 日时间统计(2026.05.31)
+<img src='./png/new_20260531_pie.png' width="33%"><img src='./png/new_20260531_plot.png' width="33%"><img src='./png/new_20260531_location.png' width="34%">
 
-### 周时间统计(2026.05.17-2026.05.23)
-<img src='./png/202605week04_table.png' width="33%"><img src='./png/202605week04_emotion.png' width="33%"><img src='./png/202605week04_location_pie.png' width="34%">
+### 周时间统计(2026.05.24-2026.05.30)
+<img src='./png/202605week05_table.png' width="33%"><img src='./png/202605week05_emotion.png' width="33%"><img src='./png/202605week05_location_pie.png' width="34%">
 
-### 月时间统计(2026.04.01-2026.04.30)
-<img src='./png/202604_pie.png' width="33%"><img src='./png/202604_location_pie.png' width="33%"><img src='./png/202604_work_time.png' width="34%">
+### 月时间统计(2026.05.01-2026.05.31)
+<img src='./png/202605_pie.png' width="33%"><img src='./png/202605_location_pie.png' width="33%"><img src='./png/202605_work_time.png' width="34%">
 
 ## 联系我
 
