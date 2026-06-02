@@ -1,8 +1,8 @@
-day=31
+day=01
 
 year=2026
-month=05
-week=05
+month=06
+week=01
 
 day_num=${year}${month}${day}
 
