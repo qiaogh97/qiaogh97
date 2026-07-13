@@ -18,8 +18,8 @@
 ### 日时间统计(2026.07.12)
 <img src='./png/new_20260712_pie.png' width="33%"><img src='./png/new_20260712_plot.png' width="33%"><img src='./png/new_20260712_location.png' width="34%">
 
-### 周时间统计(2026.06.28-2026.07.04)
-<img src='./png/202607week01_table.png' width="33%"><img src='./png/202607week01_emotion.png' width="33%"><img src='./png/202607week01_location_pie.png' width="34%">
+### 周时间统计(2026.07.05-2026.07.11)
+<img src='./png/202607week02_table.png' width="33%"><img src='./png/202607week02_emotion.png' width="33%"><img src='./png/202607week02_location_pie.png' width="34%">
 
 ### 月时间统计(2026.06.01-2026.06.30)
 <img src='./png/202606_pie.png' width="33%"><img src='./png/202606_location_pie.png' width="33%"><img src='./png/202606_work_time.png' width="34%">
