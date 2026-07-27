@@ -15,11 +15,11 @@
 - 🌍心如明镜,物来则照;万物一体,吾性具足;任它千变万化,我心自岿然不动;浩浩乎照见世间万物而不失其本体,荡荡乎如庖丁解牛游刃有余
 
 ## 📈 数据是不会说谎的
-### 日时间统计(2026.07.23)
-<img src='./png/new_20260723_pie.png' width="33%"><img src='./png/new_20260723_plot.png' width="33%"><img src='./png/new_20260723_location.png' width="34%">
+### 日时间统计(2026.07.26)
+<img src='./png/new_20260726_pie.png' width="33%"><img src='./png/new_20260726_plot.png' width="33%"><img src='./png/new_20260726_location.png' width="34%">
 
-### 周时间统计(2026.07.12-2026.07.18)
-<img src='./png/202607week03_table.png' width="33%"><img src='./png/202607week03_emotion.png' width="33%"><img src='./png/202607week03_location_pie.png' width="34%">
+### 周时间统计(2026.07.19-2026.07.25)
+<img src='./png/202607week04_table.png' width="33%"><img src='./png/202607week04_emotion.png' width="33%"><img src='./png/202607week04_location_pie.png' width="34%">
 
 ### 月时间统计(2026.06.01-2026.06.30)
 <img src='./png/202606_pie.png' width="33%"><img src='./png/202606_location_pie.png' width="33%"><img src='./png/202606_work_time.png' width="34%">
