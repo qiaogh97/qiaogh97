@@ -1,4 +1,4 @@
-day=28
+day=30
 
 year=2026
 month=07
