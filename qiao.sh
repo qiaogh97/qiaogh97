@@ -1,4 +1,4 @@
-day=16
+day=18
 
 year=2026
 month=08
