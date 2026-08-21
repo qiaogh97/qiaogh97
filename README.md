@@ -24,6 +24,11 @@
 ### 月时间统计(2026.07.01-2026.07.31)
 <img src='./png/202607_pie.png' width="33%"><img src='./png/202607_location_pie.png' width="33%"><img src='./png/202607_work_time.png' width="34%">
 
+## ✅ 习惯坚持
+<img src="./assets/habit-activity.svg" alt="06:10 起床和运动 30m 的每日习惯记录" width="100%">
+
+绿色方格表示当天完成；累计天数会随打卡自动更新。 [打卡说明](./HABITS.md)
+
 ## 联系我
 
 |平台|账户名|

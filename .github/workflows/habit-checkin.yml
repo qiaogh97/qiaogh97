@@ -1,0 +1,53 @@
+name: Habit check-in
+
+on:
+  workflow_dispatch:
+    inputs:
+      record_date:
+        description: "日期（YYYY-MM-DD，留空表示上海今天）"
+        required: false
+        type: string
+      wake:
+        description: "06:10 起床"
+        required: true
+        default: "yes"
+        type: choice
+        options: ["yes", "no"]
+      exercise:
+        description: "运动 30m"
+        required: true
+        default: "yes"
+        type: choice
+        options: ["yes", "no"]
+  schedule:
+    - cron: "35 16 * * *" # 00:35 Asia/Shanghai; advances the rolling display
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Record a manual check-in
+        if: github.event_name == 'workflow_dispatch'
+        run: >-
+          python scripts/render_habits.py
+          --date "${{ inputs.record_date }}"
+          --wake "${{ inputs.wake }}"
+          --exercise "${{ inputs.exercise }}"
+      - name: Refresh the rolling activity display
+        if: github.event_name == 'schedule'
+        run: python scripts/render_habits.py
+      - name: Commit updated habit data
+        run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/habits.json assets/habit-activity.svg
+          git commit -m "habit check-in"
+          git push

@@ -1,0 +1,12 @@
+{
+  "timezone": "Asia/Shanghai",
+  "habits": {
+    "wake_0610": {
+      "label": "06:10 起床"
+    },
+    "exercise_30m": {
+      "label": "运动 30m"
+    }
+  },
+  "records": {}
+}
