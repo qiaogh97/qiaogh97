@@ -8,14 +8,14 @@
 
 - 👶97年, born in 河南
 - 🏫中科院自动化所计算机专业博五在读, 预计27年毕业，base武汉
-- ❤️ notion六年忠实用户
+- ❤️ notion五年忠实用户
 - ⭐柳比歇夫时间记录统计法当代实践者
 - 🎮王者荣耀酷爱孙策;PVZ砸罐子发烧友
 - 🌍必为圣人
 
 ## 📈 数据是不会说谎的
-### 日时间统计(2026.08.20)
-<img src='./png/new_20260820_pie.png' width="33%"><img src='./png/new_20260820_plot.png' width="33%"><img src='./png/new_20260820_location.png' width="34%">
+### 日时间统计(2026.08.21)
+<img src='./png/new_20260821_pie.png' width="33%"><img src='./png/new_20260821_plot.png' width="33%"><img src='./png/new_20260821_location.png' width="34%">
 
 ### 周时间统计(2026.08.09-2026.08.15)
 <img src='./png/202608week03_table.png' width="33%"><img src='./png/202608week03_emotion.png' width="33%"><img src='./png/202608week03_location_pie.png' width="34%">
