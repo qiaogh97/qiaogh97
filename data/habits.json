@@ -8,5 +8,13 @@
       "label": "运动 30m"
     }
   },
-  "records": {}
+  "records": {
+    "2026-08-21": {
+      "exercise_30m": true
+    },
+    "2026-08-22": {
+      "wake_0610": true,
+      "exercise_30m": true
+    }
+  }
 }
