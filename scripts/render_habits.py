@@ -17,7 +17,8 @@ WEEKS = 53
 CELL = 13
 GAP = 3
 LEFT = 105
-TOP = 62
+# The grid has no heading or legend, so it can begin near the top edge.
+TOP = 20
 
 
 def shanghai_today() -> date:
@@ -50,8 +51,6 @@ def render(data: dict) -> str:
     elements = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Habit activity">',
         '<rect width="100%" height="100%" rx="10" fill="#ffffff"/>',
-        '<text x="20" y="29" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="600" fill="#24292f">习惯坚持</text>',
-        '<text x="20" y="48" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" fill="#57606a">绿色表示完成 · 最近一年</text>',
     ]
     for row, (name, habit) in enumerate(habits):
         y = TOP + row * (habit_height + row_gap)
