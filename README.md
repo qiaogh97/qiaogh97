@@ -14,8 +14,8 @@
 - 🌍必为圣人
 
 ## 📈 数据是不会说谎的
-### 日时间统计(2026.08.26)
-<img src='./png/new_20260826_pie.png' width="33%"><img src='./png/new_20260826_plot.png' width="33%"><img src='./png/new_20260826_location.png' width="34%">
+### 日时间统计(2026.08.27)
+<img src='./png/new_20260827_pie.png' width="33%"><img src='./png/new_20260827_plot.png' width="33%"><img src='./png/new_20260827_location.png' width="34%">
 
 ### 周时间统计(2026.08.16-2026.08.22)
 <img src='./png/202608week04_table.png' width="33%"><img src='./png/202608week04_emotion.png' width="33%"><img src='./png/202608week04_location_pie.png' width="34%">
