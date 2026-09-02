@@ -1,8 +1,8 @@
-day=31
+day=01
 
 year=2026
-month=08
-week=05
+month=09
+week=01
 
 day_num=${year}${month}${day}
 
@@ -21,7 +21,11 @@ if [ -f ../notion/time/png/${year}${month}week${week}_table.png ] && \
 fi
 
 # month
-cp ../notion/time/png/${year}${month}_pie.png ./png/.
-cp ../notion/time/png/${year}${month}_location_pie.png ./png/.
-cp ../notion/time/png/${year}${month}_work_time.png ./png/.
-ls -lh ./png/${year}${month}*.png
+if [ -f ../notion/time/png/${year}${month}_pie.png ] && \
+   [ -f ../notion/time/png/${year}${month}_location_pie.png ] && \
+   [ -f ../notion/time/png/${year}${month}_work_time.png ]; then
+    cp ../notion/time/png/${year}${month}_pie.png ./png/.
+    cp ../notion/time/png/${year}${month}_location_pie.png ./png/.
+    cp ../notion/time/png/${year}${month}_work_time.png ./png/.
+    ls -lh ./png/${year}${month}*.png
+fi
