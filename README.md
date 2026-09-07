@@ -15,13 +15,13 @@
 
 ## 📈 数据是不会说谎的
 
-### 日时间统计(2026.09.03)
+### 日时间统计(2026.09.06)
 
-<img src='./png/new_20260903_pie.png' width="33%"><img src='./png/new_20260903_plot.png' width="33%"><img src='./png/new_20260903_location.png' width="34%">
+<img src='./png/new_20260906_pie.png' width="33%"><img src='./png/new_20260906_plot.png' width="33%"><img src='./png/new_20260906_location.png' width="34%">
 
-### 周时间统计(2026.08.23-2026.08.29)
+### 周时间统计(2026.09.01-2026.09.05)
 
-<img src='./png/202608week05_table.png' width="33%"><img src='./png/202608week05_emotion.png' width="33%"><img src='./png/202608week05_location_pie.png' width="34%">
+<img src='./png/202609week01_table.png' width="33%"><img src='./png/202609week01_emotion.png' width="33%"><img src='./png/202609week01_location_pie.png' width="34%">
 
 ### 月时间统计(2026.08.01-2026.08.31)
 
