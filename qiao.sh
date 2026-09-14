@@ -2,7 +2,7 @@ day=13
 
 year=2026
 month=09
-week=03
+week=02
 
 day_num=${year}${month}${day}
 
