@@ -19,9 +19,9 @@
 
 <img src='./png/new_20261004_pie.png' width="33%"><img src='./png/new_20261004_plot.png' width="33%"><img src='./png/new_20261004_location.png' width="34%">
 
-### 周时间统计(2026.09.20-2026.09.26)
+### 周时间统计(2026.09.27-2026.10.03)
 
-<img src='./png/202609week04_table.png' width="33%"><img src='./png/202609week04_emotion.png' width="33%"><img src='./png/202609week04_location_pie.png' width="34%">
+<img src='./png/202610week01_table.png' width="33%"><img src='./png/202610week01_emotion.png' width="33%"><img src='./png/202610week01_location_pie.png' width="34%">
 
 ### 月时间统计(2026.09.01-2026.09.30)
 
