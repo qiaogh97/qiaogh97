@@ -1,8 +1,8 @@
-day=04
+day=05
 
 year=2026
 month=10
-week=01
+week=02
 
 day_num=${year}${month}${day}
 
