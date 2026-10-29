@@ -15,9 +15,9 @@
 
 ## 📈 数据是不会说谎的
 
-### 日时间统计(2026.10.27)
+### 日时间统计(2026.10.28)
 
-<img src='./png/new_20261027_pie.png' width="33%"><img src='./png/new_20261027_plot.png' width="33%"><img src='./png/new_20261027_location.png' width="34%">
+<img src='./png/new_20261028_pie.png' width="33%"><img src='./png/new_20261028_plot.png' width="33%"><img src='./png/new_20261028_location.png' width="34%">
 
 ### 周时间统计(2026.10.18-2026.10.24)
 
